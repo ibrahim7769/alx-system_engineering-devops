@@ -1,1 +1,2 @@
-Write a script that prints the absolute path name of the current working directory
+# shell basics repository
+shell basics task by alx software engineering program
